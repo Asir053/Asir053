@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asir053
 - 👀 I’m interested in Web Dev and AI
-- 🌱 I’m a TypeScript dev & Machine Learning researcher. I'm currently learning Python libraries, frameworks and brushing up my Java & .NET skills
+- 🌱 I’m a TypeScript dev & Machine Learning researcher. Currently learning Python web frameworks and brushing up my Java & .NET skills
 - 💞️ I’m looking to collaborate on interesting projects related to fullstack development and machine learning
 - 📫 How to reach me : asirbillah@gmail.com
 
