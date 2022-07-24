@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asir053
 - 👀 I’m interested in Web Dev and AI
-- 🌱 I’m currently learning Javascript, Python frameworks and brushing up my Java & .NET skills
+- 🌱 I’m currently learning Python libraries, frameworks and brushing up my Java, Javascript & .NET skills
 - 💞️ I’m looking to collaborate on interesting projects related to fullstack dev and machine learning
 - 📫 How to reach me : asirbillah@gmail.com
 
