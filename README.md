@@ -6,8 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asir053)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
-
 <!---
 Asir053/Asir053 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
